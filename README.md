@@ -59,13 +59,13 @@ I am conductiong this participatory research with a friend who fits my target de
 Please find the script to this interview [here](https://docs.google.com/document/d/13tRpFvgOTwzPnLulUi2UVwuImnj4tbtwI_wMzDbntf0/edit), with instructions, goals, and contextual questions for users. 
 
 #### 2. User Data
-Please find the recording of the interview here.
+Please find the recording of the interview [here]
 
-The transcription of the interview can be found here.
+The transcription of the interview can be found [here](https://docs.google.com/document/d/11Dk7A7iNkwnlk82PNkM6m4ccBXGztvjximEmSefvDt4/edit.).
 
 ### Here are some interesting quotes and insights from the interview:
 
 ### Reflection
-Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
+The overall experience of creating and conducting this interview was much smoother than last weeks pilot UT. Since this activity was less focused on specific tasks and more focused on the general needs the app fullfills, it was much less stressful on the user. I realized that it is crucial to make your participant as comfortable as possible during the activity so they feel like they can say the truth about their experiences. Since I interviewed a friend of mine, it was easy for me to feel like she is being honest in her responses. Allowing the participant to engage with the app without instruction provides very important information about which parts of the app are most compelling to users. I was able to take note of many features on the app based on the order in which the particpant engaged with it's tabs. Without instruction, the participant was still able to photograph the plant and read up on it's care instructions, proving that the app is intuitive and easy to use. I had a great time conducting this activity. 
 
 
